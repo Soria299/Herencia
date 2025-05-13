@@ -1,1 +1,1 @@
-# PA_2_Herencia
+# Herencia
